@@ -1,1 +1,0 @@
-This is a python file to make a LASSO regression research on box office
